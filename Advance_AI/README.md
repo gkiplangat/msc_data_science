@@ -15,8 +15,8 @@ A Gradio web application for sentiment analysis using a fine-tuned BERT model.
 This application uses a BERT model (`textattack/bert-base-uncased-SST-2`) fine-tuned on the Stanford Sentiment Treebank (SST-2) dataset to predict whether text input is positive or negative.
 
 ## 🚀 Live Demo
+[![Open Demo](https://img.shields.io/badge/Open_Demo-8A2BE2?style=for-the-badge)](https://huggingface.co/spaces/Propesa/bert-sentiment-analysis)
 
-[![Try the live demo](https://img.shields.io/badge/🤗_Try_the_Live_Demo-FFA500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Propesa/bert-sentiment-analysis)
 ## 🛠️ Features
 
 - Real-time sentiment analysis
