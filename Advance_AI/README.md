@@ -16,9 +16,7 @@ This application uses a BERT model (`textattack/bert-base-uncased-SST-2`) fine-t
 
 ## 🚀 Live Demo
 
-Try the live demo here:  
-👉 [https://huggingface.co/spaces/Propesa/bert-sentiment-analysis](https://huggingface.co/spaces/Propesa/bert-sentiment-analysis)
-
+[![Try the live demo](https://img.shields.io/badge/🤗_Try_the_Live_Demo-FFA500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Propesa/bert-sentiment-analysis)
 ## 🛠️ Features
 
 - Real-time sentiment analysis
