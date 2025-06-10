@@ -1,0 +1,45 @@
+Here are some key insights from the summary statistics of your numerical variables:
+
+1. Demographics
+   - Age: Students range from 17 to 30 years old, with a median age of 24 and mean of ~23.5. This suggests a mix of traditional and non-traditional (older) students.
+   - Family Income: 
+     - Median income is 25,309, with a mean of 25,448 (close to median, suggesting near-symmetric distribution).
+     - However, there are extreme values (min = -28,323, max = 202,696) and 250 missing values. The negative income is likely an error or placeholder for missing data.
+     - The wide range indicates significant economic diversity.
+
+2. Academic Behavior
+   - Study Hours Weekly: 
+     - Median = 15.1 hours, mean = 15.04 (symmetric distribution).
+     - Some outliers (min = -2, max = 35.7). Negative values are implausible and may indicate data entry errors.
+   - Attendance Rate: 
+     - Median = 74.5%, mean = 74.8% (fairly high), but 250 missing values.
+     - Range is 50%-100%, showing variability in engagement.
+   - Library Usage: 
+     - Median = 5 (likely a Likert scale score), but min = -5.6 is unrealistic (possible errors).
+   - Previous Grades: 
+     - Median = 69.9, mean = 69.94 (symmetric), with a wide range (40-100). No major outliers.
+
+3. Performance Metrics
+   - Subject Scores (Math/Science/English):
+     - All three subjects have similar distributions (medians ~60, means ~60).
+     - Math has 150 missing values. English has extreme values (min = -4.8, max = 110.4), which may need validation.
+   - Previous Grade: Strong correlation with current scores (median ~70), suggesting consistency in performance.
+
+4. Lifestyle Factors
+   - Commute Time: 
+     - Median = 29.8 minutes, but min = -26.5 (invalid) and max = 77.2. Negative values are errors.
+   - Sleep Hours: 
+     - Median = 7 hours (healthy), range = 1.4-11.9 (some students may have irregular sleep patterns).
+   - Course Load: 
+     - Median = 15 (likely credit hours), range = 3.1-26.4, indicating varied workloads.
+
+5. Financial Behavior
+   - Mobile Money Usage: 
+    - Median = 2,956, but min = -4,368 (likely erroneous) and max = 12,917. Negative values need investigation.
+
+Key Observations:
+- Data Quality Issues: Negative values in income, study hours, library usage, and commute time suggest data entry errors or missing value placeholders. These need cleaning.
+- Diversity: Wide ranges in income, study habits, and performance highlight varied student backgrounds.
+- Typical Student Profile: 
+  - Around 24 years old, middle-income (~25k), studies ~15 hours/week, sleeps 7 hours, and has moderate academic performance (~60-70% scores).
+- Missing Data: Notable NAs in `family_income` (250), `attendance_rate` (250), and `math_score` (150) may require imputation or analysis of missingness patterns.
