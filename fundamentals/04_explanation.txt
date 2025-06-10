@@ -1,0 +1,23 @@
+Analysis of how weekly study hours vary between urban and rural students:
+
+Key Observations
+Shape of Distribution:
+- Both groups (Rural and Urban) show right-skewed distributions, with most students studying 10–20 hours per week and fewer at higher hours.
+
+- Rural students exhibit a sharper peak (higher concentration around the median) compared to urban students, suggesting less variability in study habits.
+
+- Urban students have a slightly flatter and broader distribution, indicating more diversity in study hours (e.g., some study significantly more or less than the median).
+
+Count Differences:
+
+-The rural histogram reaches a higher count (~400) at its peak, while the urban peak is lower (likely ~300). This may reflect a larger sample size for rural students or more concentrated behavior.
+
+Outliers:
+
+-Both groups have tails extending to higher study hours (e.g., 30+ hours), but urban students show a slightly longer tail, implying more extreme cases of high study time.
+
+Insights
+Rural students tend to cluster around a moderate study range (e.g., 15–20 hours), possibly due to more structured routines or fewer distractions.
+
+Urban students display greater variability, which could stem from diverse lifestyles (e.g., part-time jobs, extracurricular activities, or access to libraries/cafés).
+
