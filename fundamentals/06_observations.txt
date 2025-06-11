@@ -1,0 +1,37 @@
+Analysis: Which categories are most common? 
+===========================================
+Extracurricular Activities
+Distribution:
+	None: 25.78%
+	Both: 25.08%
+	Sports: 24.86%
+	Clubs: 24.28%
+
+Most Common:
+-----------------
+"None" (25.78%) is slightly more common than other categories, but all four options are nearly equally distributed (all ~25%). This suggests:
+	No strong preference for any single activity type.
+	About 75% of students participate in some extracurriculars.
+===================================================================================
+Faculty Distribution
+Distribution:
+	Education: 20.60%
+	Arts: 20.50%
+	Engineering: 20.08%
+	Sciences: 19.48%
+	Business: 19.34%
+
+Most Common:
+-------------------
+"Education" (20.6%) is the most common, but all faculties are similarly represented (~19-21% each). This indicates:
+	Balanced enrollment across disciplines.
+	No dominant faculty in the dataset.
+=======================================================================================
+Key Insights
+Extracurriculars:
+	The near-even split suggests diverse student interests.
+	The "None" group might benefit from outreach to increase participation.
+
+Faculties:
+	Education and Arts lead marginally, possibly reflecting Kenya’s job market demands.
+	STEM (Engineering + Sciences) combines to ~39.5%, showing strong but not dominant representation.
