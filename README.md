@@ -18,17 +18,17 @@ Repository structure for the Master's in Data Science coursework.
 
 ## 🗂️ Detailed Contents
 
-### 1. [Fundamentals of Data Science](./MRDC_911_Fundamentals_of_Data_Science)
+### 1. [Fundamentals of Data Science](MRDC_911_Fundamentals_of_Data_Science)
 - Data wrangling scripts
 - EDA notebooks
 - Statistical modeling assignments
 
-### 2. [Programming Methodology](./MRDC_912_Programming_Methodology)  
+### 2. [Programming Methodology](MRDC_912_Programming_Methodology)  
 - Design pattern implementations
 - Code optimization exercises
 - Project organization templates
 
-### 3. [Advanced AI](./MRDC_913_Advance_Artificial_Intelligence)
+### 3. [Advanced AI](MRDC_913_Advance_Artificial_Intelligence)
 - Neural network implementations
 - Research paper reproductions
 - Model deployment projects
@@ -36,7 +36,7 @@ Repository structure for the Master's in Data Science coursework.
 ## 🔗 Quick Navigation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/MRDC-Data-Science.git
+git clone https://github.com/gkiplangat/msc_data_science.git
 
 # Access specific course
 cd MRDC_913_Advance_Artificial_Intelligence
