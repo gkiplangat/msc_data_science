@@ -1,12 +1,12 @@
-# Student Performance Analysis in Kenya
+## Student Performance Analysis in Kenya
 
-## Project Metadata
+### Project Metadata
 **Author**: [Gideon Kiplangat](mailto:gideonkiplangat4@gmail.com)  
 **GitHub**: [github.com/gkiplangat](https://github.com/gkiplangat)  
 **Dataset**: [kenya_student_data.csv](kenya_student_data.csv)  
 **R Project File**: [fundamentals.Rproj](fundamentals.Rproj)
 
-## 📁 File Structure
+### 📁 File Structure
 
 ├── 📁 **Code Files** <br>
 │   ├── [01_code.R](01_code.R) - *Question 1: Data loading & structure*  
