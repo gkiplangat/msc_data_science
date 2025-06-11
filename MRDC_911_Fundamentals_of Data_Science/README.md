@@ -31,7 +31,6 @@
 │   ├── [05_observation.txt](05_observation.txt) - *Q5 patterns*  
 │   ├── [06_observation.txt](06_observation.txt) - *Q6 results*  
 │   └── [07_observation.txt](07_observation.txt) - *Q7 interpretations*  
-
 │
 └── 📁 **Metadata**  
     ├── [README.md](README.md) - *Project documentation*  
