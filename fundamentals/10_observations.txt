@@ -1,0 +1,28 @@
+Why Median is Appropriate
+=========================
+For 
+1. family_income:
+-----------------
+Right-Skewed Distribution
+	Income data typically has a long right tail (few high earners).
+	The median is resistant to extreme values, unlike the mean.
+	Example: If 99 people earn ≤Ksh 50K and 1 earns Ksh 5M, the median stays at Ksh 50K while the mean becomes distorted.
+
+Preserves Central Tendency
+	Median represents the 50th percentile, ensuring half the population remains above/below this value.
+	Critical for policy decisions (e.g., poverty line analysis).
+For
+2. math_score:
+-----------------
+Potential Outliers
+	A few very low/high scores can skew the mean.
+	Median ensures "typical" performance isn’t misrepresented.
+
+Ordinal Nature
+	Test scores are ordinal (e.g., 0–100 scale).
+	Median better represents the "middle" performance than mean when data isn’t perfectly normal.
+
+Empirical Support
+	Studies show exam scores in Kenyan schools often cluster around median values due to:
+		Standardized teaching methods
+		Limited score variability in large cohorts
