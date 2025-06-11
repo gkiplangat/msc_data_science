@@ -1,0 +1,8 @@
+Observations:Interpret Results
+=============================
+chi-squared test reveals a highly significant association (p < 0.0001) between internet access and academic performance.
+
+Internet access is linked to academic performance.
+Possible scenarios:
+	Students with internet access may have higher proportions of "Good/Excellent" performance.
+	Students without internet may cluster in "Poor/Average" categories.
