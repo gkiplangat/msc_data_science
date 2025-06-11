@@ -1,7 +1,9 @@
 # Create boxplots of math_score by academic_performance and gender.
 # What patterns do you observe? 
+library(ggplot2) #Place cursor here and click run
+library(dplyr) #Place cursor here and click run
 
-ggplot(data, aes(x = academic_performance, y = math_score, fill = gender)) +
+ggplot(student_data, aes(x = academic_performance, y = math_score, fill = gender)) +
   geom_boxplot() +
   labs(
     title = "Math Scores by Academic Performance and Gender",
@@ -10,4 +12,4 @@ ggplot(data, aes(x = academic_performance, y = math_score, fill = gender)) +
     fill = "Gender"
   ) +
   theme_minimal() +
-  scale_fill_brewer(palette = "Set2")  # Optional: Color customization
+  scale_fill_brewer(palette = "Set2")  #Place cursor here and click run
