@@ -1,3 +1,6 @@
+#Create a correlation matrix for numerical variables (excluding student_id) and visualize it using a heatmap
+#Which pairs have the strongest correlations?
+
 #Load libraries
 library(corrplot) #Place cursor here and click run
 library(ggplot2) #Place cursor here and click run

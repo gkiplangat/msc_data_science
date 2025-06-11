@@ -1,0 +1,22 @@
+Interpretation:Why might these variables have missing data in a Kenyan context?
+===========================================================================
+
+Kenyan Context Interpretation
+-----------------------------------
+Missing data in these variables may occur due to:
+1. Family Income
+	Sensitivity: Households may withhold income details due to privacy concerns or tax avoidance.
+
+	Informal Economy: A big percentage of Kenya's workforce is informal, making income hard to quantify.
+
+	Cultural Factors: Some communities consider financial discussions taboo.
+
+2. Math Scores
+	Absenteeism: Students may miss exams due to:
+	Distance challenges (especially in arid counties)
+	Child labor demands during harvest seasons
+	Recording Gaps: Manual grade entry errors in rural schools.
+
+3. Attendance Rate
+	Infrastructure Issues: Schools without digital systems may have inconsistent tracking.
+	Cultural Events: Traditional ceremonies can lead to unrecorded absences.
