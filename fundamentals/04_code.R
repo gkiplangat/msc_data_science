@@ -1,16 +1,17 @@
 # Visualize the distribution of study_hours_weekly using a histogram.
 # How does it vary between urban and rural students (use a faceted histogram)?
 
+library(tidyverse)
 
 # Load data (replace "your_data.csv" with your file)
-data <- read.csv("your_data.csv")  
+student_data <- read.csv("kenya_student_data.csv") #put cursor here and run  
 
 # Check column names (ensure "study_hours_weekly" and "residency" exist)
 head(data)
 # Filter out invalid values and create 'clean_data'
 clean_data <- data %>% 
   filter(study_hours_weekly >= 0,  # Remove negative study hours
-         residency %in% c("Rural", "Urban"))  # Ensure only these groups exist
+         residency %in% c("Rural", "Urban")) #put cursor here and run
 
 # Create faceted histogram
 ggplot(clean_data, aes(x = study_hours_weekly, fill = residency)) +
@@ -23,5 +24,5 @@ ggplot(clean_data, aes(x = study_hours_weekly, fill = residency)) +
     fill = "Residency"
   ) +
   theme_minimal() +
-  scale_fill_brewer(palette = "Set1")  # Optional: Color customization
+  scale_fill_brewer(palette = "Set1")  #put cursor here and run
 
