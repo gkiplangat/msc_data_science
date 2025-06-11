@@ -2,7 +2,7 @@
 
 This repository organizes academic assignments and projects by course unit. Each directory corresponds to a specific course, containing relevant materials.
 
-## MRDC Data Science Program Repository
+### MRDC Data Science Program Repository
 
 Repository structure for the Master's in Data Science coursework.  
 *Last updated: $(date +%Y-%m-%d)*
