@@ -1,5 +1,5 @@
-Here are some key insights from the summary statistics of your numerical variables:
-
+Analysis: What insights do these provide about the data?
+======================================================
 1. Demographics
    - Age: Students range from 17 to 30 years old, with a median age of 24 and mean of ~23.5. This suggests a mix of traditional and non-traditional (older) students.
    - Family Income: 
@@ -38,6 +38,7 @@ Here are some key insights from the summary statistics of your numerical variabl
     - Median = 2,956, but min = -4,368 (likely erroneous) and max = 12,917. Negative values need investigation.
 
 Key Observations:
+----------------------
 - Data Quality Issues: Negative values in income, study hours, library usage, and commute time suggest data entry errors or missing value placeholders. These need cleaning.
 - Diversity: Wide ranges in income, study habits, and performance highlight varied student backgrounds.
 - Typical Student Profile: 

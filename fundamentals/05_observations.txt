@@ -1,30 +1,26 @@
-Analysis of math scores across academic performance and gender:
-
+Analysis: Math scores across academic performance and gender:
+============================================================
 Key Observations
+---------------------
 1. By Academic Performance
-Ordered Trends: Math scores clearly increase with better academic performance:
-Poor → Good → Average → Excellent (highest scores).
-The median math score for "Excellent" students is near 90, while "Poor" performers cluster near 30.
+	Ordered Trends: Math scores clearly increase with better academic performance:
+	Poor → Good → Average → Excellent (highest scores).
+	The median math score for "Excellent" students is near 90, while "Poor" performers cluster near 30.
 
-Variability:
-Excellent and Good groups show tight interquartile ranges (IQRs), indicating consistent high performance.
+Variability:Excellent and Good groups show tight interquartile ranges (IQRs), indicating consistent high performance.
 Poor performers have wider IQRs, suggesting greater variability in struggles.
 
 2. By Gender
 Female vs. Male:
-Females generally have slightly higher medians in "Average" and "Good" categories.
-Males show more outliers (e.g., extreme low/high scores) in "Poor" and "Excellent" groups.
+	Females generally have slightly higher medians in "Average" and "Good" categories.
+	Males show more outliers (e.g., extreme low/high scores) in "Poor" and "Excellent" groups.
 
-Other Gender:
-Limited data (narrow boxes/whiskers), but trends align with the broader pattern.
+Other Gender:Limited data (narrow boxes/whiskers), but trends align with the broader pattern.
 
 3. Missing Data (NA)
-The "NA" academic performance group has low scores (median ~30), similar to "Poor" performers. This might indicate missing labels for struggling students.
-
+	The "NA" academic performance group has low scores (median ~30), similar to "Poor" performers. This might indicate missing labels for struggling students.
 
 Insights
-Performance Gap: The stark difference between "Excellent" and "Poor" groups suggests math proficiency is strongly tied to overall academic performance.
-
-Gender Nuances: Females may be more consistent in middle tiers, while males exhibit more extreme scores.
-
-Actionable Takeaway: Investigate why "NA" students perform similarly to "Poor" students—could reflect data entry issues or a need for targeted interventions
+	Performance Gap: The stark difference between "Excellent" and "Poor" groups suggests math proficiency is strongly tied to overall academic performance.
+	Gender Nuances: Females may be more consistent in middle tiers, while males exhibit more extreme scores.
+	Actionable Takeaway: Investigate why "NA" students perform similarly to "Poor" students—could reflect data entry issues or a need for targeted interventions
