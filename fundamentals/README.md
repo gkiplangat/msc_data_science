@@ -8,7 +8,7 @@
 
 ## 📁 File Structure
 
-├── 📁 **Code Files**
+├── 📁 **Code Files** <br>
 │   ├── [01_code.R](01_code.R) - *Question 1: Data loading & structure*  
 │   ├── [02_code.R](02_code.R) - *Question 2: Summary statistics*  
 │   ├── [03_code.R](03_code.R) - *Question 3: Academic performance distribution*  
