@@ -1,0 +1,35 @@
+Most Likely Strong Positive Correlations:
+-----------------------------------------------
+	Math Score ↔ Science Score
+	(Typical r ≈ 0.6-0.8, as these subjects often share cognitive skills)
+
+	Previous Grade ↔ Current Subject Scores
+	(Math/English/Science scores often correlate r ≈ 0.5-0.7 with prior academic performance)
+
+	Study Hours ↔ Academic Scores
+	(Usually r ≈ 0.4-0.6 for conscientious students)
+
+	Attendance Rate ↔ All Subject Scores
+	(Often r ≈ 0.5-0.7, as attendance is foundational)
+
+Potential Negative Correlations:
+------------------------------------
+	Commute Time ↔ Study Hours/Attendance
+	(Longer commutes often reduce study time, r ≈ -0.3 to -0.5)
+
+	Course Load ↔ Sleep Hours
+	(Heavier loads may reduce sleep, r ≈ -0.4)
+
+How to Verify:
+==============
+To get exact values from your actual correlation matrix:
+Look for coefficients closest to ±1
+Strong correlations typically are:
+	> 0.7 (Very strong positive)
+	< -0.5 (Strong negative)
+
+Example Interpretation:
+If your corrplot showed:
+	math_score ~ science_score = 0.82 → Very strong
+	attendance_rate ~ english_score = 0.68 → Strong
+	commute_time ~ study_hours = -0.47 → Moderate negative
