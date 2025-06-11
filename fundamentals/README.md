@@ -1,4 +1,13 @@
-mrc_data_science/fundamentals/
+# Student Performance Analysis in Kenya
+
+## Project Metadata
+**Author**: [Gideon Kiplangat](mailto:gideonkiplangat4@gmail.com)  
+**GitHub**: [github.com/gkiplangat](https://github.com/gkiplangat)  
+**Dataset**: [kenya_student_data.csv](kenya_student_data.csv)  
+**R Project File**: [fundamentals.Rproj](fundamentals.Rproj)
+
+## 📁 File Structure
+
 ├── 📁 **Code Files**
 │   ├── [01_code.R](01_code.R) - *Question 1: Data loading & structure*  
 │   ├── [02_code.R](02_code.R) - *Question 2: Summary statistics*  
