@@ -18,7 +18,7 @@ Repository structure for the Master's in Data Science coursework.
 
 ## 🗂️ Detailed Contents
 
-### 1. [MRDC 911 Fundamentals of Data Science](MRDC_911_Fundamentals_of Data_Science)
+### 1. [MRDC 911 Fundamentals of Data Science](MRDC_911_Fundamentals_of_Data_Science)
 - Data wrangling scripts
 - EDA notebooks
 - Statistical modeling assignments
@@ -28,7 +28,7 @@ Repository structure for the Master's in Data Science coursework.
 - Code optimization exercises
 - Project organization templates
 
-### 3. [MRDC 913 Advanced Artificial Intelligence](MRDC_913_Advance_Artificial_Intelligence)
+### 3. [MRDC 913 Advanced Artifical Intelligence](MRDC_913_Advance_Artificial_Intelligence)
 - Neural network implementations
 - Research paper reproductions
 - Model deployment projects
