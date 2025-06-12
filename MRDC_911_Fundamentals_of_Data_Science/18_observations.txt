@@ -1,0 +1,29 @@
+Observed Trends from Scatter Plot and Correlation Data
+======================================================
+
+Based on the scatter plot visualization and correlation analysis, here are the key trends:
+No Significant Linear Relationship
+Both rural and urban students show near-zero correlations:
+	Rural: 0.0307
+	Urban: 0.000896
+	This indicates no meaningful linear association between study hours and academic performance in either group.
+Vertical Point Clustering
+The plot likely shows:
+-Distinct vertical bands at common study hour intervals (e.g., 10, 15, 20 hours)
+-Wide score dispersion at each hour level, suggesting factors beyond study time determine outcomes
+
+Residency-Specific Patterns
+Rural students: Slightly wider vertical spread, possibly reflecting:
+	Greater variability in learning resources (e.g., some with electricity access vs. others without)
+	Competing responsibilities (farm work, childcare) affecting study efficiency
+Urban students: More clustered around average scores, suggesting:
+	More standardized learning environments
+	Diminishing returns on excessive study hours due to burnout
+
+Kenyan Context Insights
+Study hour inefficiency: Marginal returns to additional studying may be low due to:
+	Outdated teaching methods (rote learning vs. critical thinking)
+	Inadequate materials (shared textbooks, no internet)
+Hidden variables likely dominate:
+-Quality of study > Quantity (tutoring access, quiet spaces)
+-Nutrition and health (malaria/parasite burden affects concentration)
