@@ -1,0 +1,23 @@
+Analysis: How many outliers are there, and what might they represent in a Kenyan context?
+===================================================================================
+Number of Outliers:
+-----------------------
+There are 79 outliers in the family_income variable using the 1.5×IQR method.
+
+What These Outliers Represent in a Kenyan Context:
+-------------------------------------------------------------
+The outliers reflect Kenya's significant income inequality and economic diversity:
+1. High-Income Outliers (> 63,402 KES/month)
+These likely represent:
+	Urban elite: Top professionals in Nairobi (finance/tech sectors, senior government officials, UN/diplomatic staff)
+	Business owners: Successful entrepreneurs in manufacturing, agriculture (tea/coffee exports), or tourism
+	Diaspora households: Families receiving substantial foreign remittances (remittances account for 3.1% of Kenya's GDP)
+	Landowners: Large-scale farmers with high-value crops (e.g., horticulture in Rift Valley)
+	Example: A family earning 80,000 KES/month would be in Kenya's top 5% (urban).
+
+2. Low-Income Outliers
+The negative lower bound (-12,718 KES) is statistically calculated but not economically meaningful (income can't be negative). In practice:
+	Extreme poverty: Households < 5,000 KES/month
+	Rural subsistence farmers: Especially in ASALs (Arid and Semi-Arid Lands) like Turkana
+	Informal settlements: Families in Nairobi's Kibera or Kisumu's Nyalenda slums
+	Unrecorded missing data: Day laborers without stable income
