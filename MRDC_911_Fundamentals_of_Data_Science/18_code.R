@@ -22,3 +22,4 @@ correlation_by_residency <- student_data %>%
                       use = "complete.obs", method = "pearson")
   )
 print(correlation_by_residency)
+
