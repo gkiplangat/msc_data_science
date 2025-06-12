@@ -35,7 +35,7 @@
 │   ├── [03_bar_chart.pdf](03_bar_chart.pdf) - *Q3: Performance distribution*  
 │   ├── [04_histogram.pdf](04_histogram.pdf) - *Q4: Study hours by residency*  
 │   ├── [05_boxplot.pdf](05_boxplot.pdf) - *Q5: Math scores by performance/gender*  
-│   ├── [07_corr_matrix.pdf](07_corr_matrix.pdf) - *Q7: Variable correlations*  
+│   ├── [07_cor_matrix.pdf](07_cor_matrix.pdf) - *Q7: Variable correlations*  
 │   ├── [11_before_imputation.pdf](11_before_imputation.pdf) - *Q11a: Before imputation*  
 │   ├── [11_after_imputation.pdf](11_after_imputation.pdf) - *Q11b: After imputation*  
 │   ├── [13_capped.pdf](13_capped.pdf) - *Q13: Outlier capping*  
