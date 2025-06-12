@@ -1,6 +1,4 @@
-#Compute the proportion of each category in extracurricular_activities and faculty.
-# Which categories are most common? 
-
+#Load library
 library(tidyverse)
 
 # Define the function

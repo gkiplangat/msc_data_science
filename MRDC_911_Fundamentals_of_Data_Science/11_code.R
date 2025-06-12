@@ -1,8 +1,4 @@
-# Impute missing values in attendance_rate using the mean. 
-# Compare the distributions before and after imputation using histograms. 
-
-
-# Load required package (for %>% and mutate())
+# Load library
 library(dplyr)
 
 # Before imputation

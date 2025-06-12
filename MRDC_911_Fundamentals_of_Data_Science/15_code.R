@@ -34,6 +34,6 @@ ggplot(student_data, aes(x = income_binned, y = total_score)) +
 corr_test <- corr.test(
   as.numeric(student_data$income_binned),  # Convert to ordinal
   student_data$total_score,
-  method = "spearman"  # Non-parametric correlation
+  method = "spearman"
 )
-print(corr_test$r)  #Correlation coefficient
+print(corr_test$r)  #Print correlation coefficient

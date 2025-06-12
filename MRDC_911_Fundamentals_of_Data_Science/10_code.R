@@ -1,7 +1,4 @@
-# Impute missing values in family_income and math_score using the median. 
-# Justify why the median is appropriate for these variables.
-
-# Load required package
+# Load library
 library(dplyr)
 
 # Median imputation

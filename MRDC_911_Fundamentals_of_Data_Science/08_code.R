@@ -1,7 +1,4 @@
-#Use a statistical test (e.g., chi-squared) to check if internet_access is associated with academic_performance.
-# Interpret the results.
-
-# Load required packages (stats is base R but shown for completeness)
+# Load libary
 library(stats)
 
 # Perform chi-squared test of independence
