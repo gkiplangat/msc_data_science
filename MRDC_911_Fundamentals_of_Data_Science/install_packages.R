@@ -1,6 +1,10 @@
 #install Packages
-install.packages(c("tidyverse", "ggplot2","corrplot" ))
-# incase of error run: install.packages("corrplot") in the console
+install.packages(c("tidyverse"))
+install.packages("ggplot2")
+install.packages("corrplot")
+install.packages("psych")
+
+#in case of error run them on the console, i.e put  install.packages("corrplot") and press enter
 
 # Load required libraries
 library(tidyverse)
