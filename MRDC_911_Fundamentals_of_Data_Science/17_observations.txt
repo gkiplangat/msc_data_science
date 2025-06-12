@@ -1,0 +1,16 @@
+What patterns suggest about student involvement?
+==============================================
+Patterns in Extracurricular Activities vs. Academic Performance
+-------------------------------------------------------------------------
+Visual Pattern from Contingency Table:
+	The mosaic plot shows no dramatic differences in academic performance distribution across activity types
+	Students with no extracurricular involvement show slightly higher proportions of "Poor" performance
+	Students in "Both" activities show marginally better "Excellent" performance rates
+	No single activity type dominates across all performance levels
+
+Statistical Test Result:
+	Pearson's Chi-squared test
+	X-squared = 4.8156, df = 9, p-value = 0.8501
+	High p-value (0.85 > 0.05) indicates no statistically significant association
+	The differences observed are likely due to random variation, not systematic patterns
+
