@@ -15,10 +15,11 @@ student_data <- student_data %>%
     )
   )
 
-# 15.2 Calculate correlation with academic performance
-# First ensure total_score exists (from Q16)
-student_data <- student_data %>% 
-  mutate(total_score = (math_score + science_score + english_score) / 3)
+# Create total_score
+student_data <- student_data %>%
+  mutate(
+    total_score = (math_score + science_score + english_score) / 3
+  )
 
 # Boxplot visualization
 ggplot(student_data, aes(x = income_binned, y = total_score)) +
