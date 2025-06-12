@@ -32,35 +32,34 @@
 │   └── [install_packages.R](install_packages.R) - *Required packages* 
     
 ├── 📁 **Visualizations**  
-│   ├── [03_bar_chart.png](03_bar_chart.png) - *Q3: Performance distribution*  
-│   ├── [04_histogram.png](04_histogram.png) - *Q4: Study hours by residency*  
-│   ├── [05_boxplot.png](05_boxplot.png) - *Q5: Math scores by performance/gender*  
-│   ├── [07_corr_matrix.png](07_corr_matrix.png) - *Q7: Variable correlations*  
-│   ├── [11_attendance_hist.png](11_attendance_hist.png) - *Q11: Before/after imputation*  
-│   ├── [13_income_boxplot.png](13_income_boxplot.png) - *Q13: Outlier capping*  
-│   ├── [14_study_bins.png](14_study_bins.png) - *Q14: Binned study hours*  
-│   ├── [16_total_score.png](16_total_score.png) - *Q16: Total score distribution*  
-│   └── [18_scatter_plot.png](18_scatter_plot.png) - *Q18: Study hours vs total score*  
+│   ├── [03_bar_chart.pdf](03_bar_chart.png) - *Q3: Performance distribution*  
+│   ├── [04_histogram.pdf](04_histogram.png) - *Q4: Study hours by residency*  
+│   ├── [05_boxplot.pdf](05_boxplot.png) - *Q5: Math scores by performance/gender*  
+│   ├── [07_corr_matrix.pdf](07_corr_matrix.png) - *Q7: Variable correlations*  
+│   ├── [11_before_imputation.pdf](11_before_imputation.pdf, & 11_after_imputation.pdf, ) - *Q11: Before/after imputation*  
+│   ├── [13_capped.pdf](13_capped.pdf) - *Q13: Outlier capping*  
+│   ├── [14_bar.pdf](14_bar.pdf) - *Q14: Binned study hours*  
+│   ├── [15_boxplot.pdf](15_boxplot.pdf) - *Q16: Total score distribution* 
+│   ├── [16_histogram.pdf](16_histogram.pdf) - *Q16: Total score distribution* 
+│   ├── [17_contigency_table_visual.pdf](17_contigency_table_visual.pdf) - *Q16: Total score distribution* 
+│   └── [18_scatter_plot.pdf](18_scatter_plot.pdf) - *Q18: Study hours vs total score*  
 │
 ├── 📁 **Analysis Reports**  
-│   ├── [01_observation.md](01_observation.md) - *Q1: Data structure insights*  
-│   ├── [02_observation.md](02_observation.md) - *Q2: Summary statistics insights*  
-│   ├── [03_observation.md](03_observation.md) - *Q3: Performance balance*  
-│   ├── [04_observation.md](04_observation.md) - *Q4: Urban/rural differences*  
-│   ├── [05_observation.md](05_observation.md) - *Q5: Gender patterns*  
-│   ├── [06_observation.md](06_observation.md) - *Q6: Common categories*  
-│   ├── [07_observation.md](07_observation.md) - *Q7: Strong correlations*  
-│   ├── [08_observation.md](08_observation.md) - *Q8: Internet impact*  
-│   ├── [09_observation.md](09_observation.md) - *Q9: Missing data context*  
-│   ├── [10_observation.md](10_observation.md) - *Q10: Median justification*  
-│   ├── [11_observation.md](11_observation.md) - *Q11: Imputation comparison*  
-│   ├── [12_observation.md](12_observation.md) - *Q12: Kenyan outliers*  
-│   ├── [13_observation.md](13_observation.md) - *Q13: Capping results*  
-│   ├── [14_observation.md](14_observation.md) - *Q14: Study hour bins*  
-│   ├── [15_observation.md](15_observation.md) - *Q15: Income-performance link*  
-│   ├── [16_observation.md](16_observation.md) - *Q16: Total score insights*  
-│   ├── [17_observation.md](17_observation.md) - *Q17: Extracurricular impact*  
-│   └── [18_observation.md](18_observation.md) - *Q18: Study time trends*  
+│ 
+│   ├── [02_observations.txt](02_observations.txt) - *Q2: Summary statistics insights*  
+│   ├── [04_observations.txt](04_observations.txt) - *Q4: Urban/rural differences*  
+│   ├── [05_observations.txt](05_observations.txt) - *Q5: Gender patterns*  
+│   ├── [06_observations.txt](06_observations.txt) - *Q6: Common categories*  
+│   ├── [07_observations.txt](07_observations.txt) - *Q7: Strong correlations*  
+│   ├── [08_observations.txt](08_observations.txt) - *Q8: Internet impact*  
+│   ├── [09_observations.txt](09_observations.txt) - *Q9: Missing data context*  
+│   ├── [10_observations.txt](10_observations.txt) - *Q10: Median justification*  
+│   ├── [11_observations.txt](11_observations.txt) - *Q11: Imputation comparison*  
+│   ├── [12_observations.txt](12_observations.txt) - *Q12: Kenyan outliers*  
+│   ├── [14_observations.txt](14_observations.txt) - *Q14: Study hour bins*  
+│   ├── [15_observations.txt](15_observations.txt) - *Q15: Income-performance link*   
+│   ├── [17_observations.txt](17_observations.txt) - *Q17: Extracurricular impact*  
+│   └── [18_observations.txt](18_observations.txt) - *Q18: Study time trends*  
 │
 └── 📁 **Metadata**  
     ├── [README.md](README.md) - *Project documentation*  
