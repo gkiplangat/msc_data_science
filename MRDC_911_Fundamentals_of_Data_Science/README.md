@@ -10,7 +10,7 @@
 
 ### 📁 File Structure
 
-├── 📁 **Code Files** <br>
+├── 📁 **Code Files**  
 │   ├── [01_code.R](01_code.R) - *Question 1: Data loading & structure*  
 │   ├── [02_code.R](02_code.R) - *Question 2: Summary statistics*  
 │   ├── [03_code.R](03_code.R) - *Question 3: Academic performance distribution*  
@@ -32,20 +32,20 @@
 │   └── [install_packages.R](install_packages.R) - *Required packages* 
     
 ├── 📁 **Visualizations**  
-│   ├── [03_bar_chart.pdf](03_bar_chart.png) - *Q3: Performance distribution*  
-│   ├── [04_histogram.pdf](04_histogram.png) - *Q4: Study hours by residency*  
-│   ├── [05_boxplot.pdf](05_boxplot.png) - *Q5: Math scores by performance/gender*  
-│   ├── [07_corr_matrix.pdf](07_corr_matrix.png) - *Q7: Variable correlations*  
-│   ├── [11_before_imputation.pdf](11_before_imputation.pdf, & 11_after_imputation.pdf, ) - *Q11: Before/after imputation*  
+│   ├── [03_bar_chart.pdf](03_bar_chart.pdf) - *Q3: Performance distribution*  
+│   ├── [04_histogram.pdf](04_histogram.pdf) - *Q4: Study hours by residency*  
+│   ├── [05_boxplot.pdf](05_boxplot.pdf) - *Q5: Math scores by performance/gender*  
+│   ├── [07_corr_matrix.pdf](07_corr_matrix.pdf) - *Q7: Variable correlations*  
+│   ├── [11_before_imputation.pdf](11_before_imputation.pdf) - *Q11a: Before imputation*  
+│   ├── [11_after_imputation.pdf](11_after_imputation.pdf) - *Q11b: After imputation*  
 │   ├── [13_capped.pdf](13_capped.pdf) - *Q13: Outlier capping*  
 │   ├── [14_bar.pdf](14_bar.pdf) - *Q14: Binned study hours*  
-│   ├── [15_boxplot.pdf](15_boxplot.pdf) - *Q16: Total score distribution* 
-│   ├── [16_histogram.pdf](16_histogram.pdf) - *Q16: Total score distribution* 
-│   ├── [17_contigency_table_visual.pdf](17_contigency_table_visual.pdf) - *Q16: Total score distribution* 
+│   ├── [15_boxplot.pdf](15_boxplot.pdf) - *Q15: Total score distribution*  
+│   ├── [16_histogram.pdf](16_histogram.pdf) - *Q16: Total score distribution*  
+│   ├── [17_contigency_table_visual.pdf](17_contigency_table_visual.pdf) - *Q17: Contingency table*  
 │   └── [18_scatter_plot.pdf](18_scatter_plot.pdf) - *Q18: Study hours vs total score*  
 │
 ├── 📁 **Analysis Reports**  
-│ 
 │   ├── [02_observations.txt](02_observations.txt) - *Q2: Summary statistics insights*  
 │   ├── [04_observations.txt](04_observations.txt) - *Q4: Urban/rural differences*  
 │   ├── [05_observations.txt](05_observations.txt) - *Q5: Gender patterns*  
@@ -57,7 +57,7 @@
 │   ├── [11_observations.txt](11_observations.txt) - *Q11: Imputation comparison*  
 │   ├── [12_observations.txt](12_observations.txt) - *Q12: Kenyan outliers*  
 │   ├── [14_observations.txt](14_observations.txt) - *Q14: Study hour bins*  
-│   ├── [15_observations.txt](15_observations.txt) - *Q15: Income-performance link*   
+│   ├── [15_observations.txt](15_observations.txt) - *Q15: Income-performance link*  
 │   ├── [17_observations.txt](17_observations.txt) - *Q17: Extracurricular impact*  
 │   └── [18_observations.txt](18_observations.txt) - *Q18: Study time trends*  
 │
